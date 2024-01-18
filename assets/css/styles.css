@@ -1052,12 +1052,12 @@ body.dark-theme {
   .story__img,
   .testimonial__square,
   .testimonial__img {
-    width: 450px;
+    width: 350px;
   }
 
   .story__square,
   .testimonial__square {
-    height: 350px;
+    height: 450px;
   }
 
   .products__container,
